@@ -1,3 +1,11 @@
 # Let's ignore 
 .ipynb_checkpoints/
 .DS_Store
+1_ObjetoMulgrid/.ipynb_checkpoints/
+2_ObjetoMulgridGmsh/.ipynb_checkpoints/
+3_ObjetoMulgridElevs/.ipynb_checkpoints/
+4_MulgridConGMSH_Elevs_Voronoi/.ipynb_checkpoints/
+5_Objeto_t2data/.ipynb_checkpoints/
+6_modelo2D/.ipynb_checkpoints/
+7_modelo3D/.ipynb_checkpoints/
+
